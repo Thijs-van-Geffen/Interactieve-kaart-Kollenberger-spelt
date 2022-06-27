@@ -1,0 +1,22 @@
+@import url('http://fonts.cdnfonts.com/css/gordita');
+
+* {
+    font-family: Gordita;
+}
+
+body {
+    background-color: grey;
+    margin: 0px;
+}
+
+#container {
+    height: 100vh;
+}
+
+#map {
+    height: 100%;
+}
+
+.leaflet-popup-content {
+    width: 600px;
+}
